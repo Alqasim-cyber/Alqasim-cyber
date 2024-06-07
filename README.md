@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alqasim-cyber
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate on web developers
+- 👀 I’m interested in Ethical hacking
+- 🌱 I’m currently learning RevEngr
+- 💞️ I’m looking to collaborate on penetration testing
 - 📫 How to reach me alqasimyahaya64@gmail.com
 
 <!---
